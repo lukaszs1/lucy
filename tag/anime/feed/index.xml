@@ -9,7 +9,7 @@
 
 <channel>
 	<title>anime &#8211; Lucy Tattoo</title>
-	<atom:link href="http://lucy-tattoo.pl/tag/anime/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/anime/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lucy-tattoo.pl</link>
 	<description>Profesjonalne Studio Tatuażu w Gostyniu</description>
 	<lastBuildDate>Wed, 10 Dec 2014 20:41:15 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 	<item>
 		<title>Tatuaż rysunkowy</title>
-		<link>http://lucy-tattoo.pl/tatuaz-rysunkowy/</link>
+		<link>/tatuaz-rysunkowy/</link>
 				<pubDate>Wed, 10 Dec 2014 20:25:54 +0000</pubDate>
 		<dc:creator><![CDATA[lucytatto]]></dc:creator>
 				<category><![CDATA[Anime tatoo]]></category>
@@ -33,18 +33,18 @@
 		<guid isPermaLink="false">http://www.lucy-tattoo.pl/?p=523</guid>
 				<description><![CDATA[<p>Studio Tatuażu Lucy Tattoo</p>
 <p>Tatuaż rysunkowy z fajnym efektem</p>
-<p class="continue-reading-button"> <a class="continue-reading-link" href="http://lucy-tattoo.pl/tatuaz-rysunkowy/">Więcej<i class="crycon-right-dir"></i></a></p>
-<p>Post <a rel="nofollow" href="http://lucy-tattoo.pl/tatuaz-rysunkowy/">Tatuaż rysunkowy</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
+<p class="continue-reading-button"> <a class="continue-reading-link" href="/tatuaz-rysunkowy/">Więcej<i class="crycon-right-dir"></i></a></p>
+<p>Post <a rel="nofollow" href="/tatuaz-rysunkowy/">Tatuaż rysunkowy</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
 ]]></description>
 								<content:encoded><![CDATA[<p>Studio Tatuażu Lucy Tattoo</p>
 <p><strong>Tatuaż rysunkowy z fajnym efektem</strong><br />
-<img class="alignleft wp-image-524 size-full" src="http://www.lucy-tattoo.pl/wp-content/uploads/2014/12/2014-12-09-21.35.47.jpg" alt="Anime tatuaż" width="1000" height="563" srcset="http://lucy-tattoo.pl/wp-content/uploads/2014/12/2014-12-09-21.35.47.jpg 1000w, http://lucy-tattoo.pl/wp-content/uploads/2014/12/2014-12-09-21.35.47-300x168.jpg 300w, http://lucy-tattoo.pl/wp-content/uploads/2014/12/2014-12-09-21.35.47-250x140.jpg 250w, http://lucy-tattoo.pl/wp-content/uploads/2014/12/2014-12-09-21.35.47-150x84.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
-<p>Post <a rel="nofollow" href="http://lucy-tattoo.pl/tatuaz-rysunkowy/">Tatuaż rysunkowy</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
+<img class="alignleft wp-image-524 size-full" src="http://www.lucy-tattoo.pl/wp-content/uploads/2014/12/2014-12-09-21.35.47.jpg" alt="Anime tatuaż" width="1000" height="563" srcset="/wp-content/uploads/2014/12/2014-12-09-21.35.47.jpg 1000w, /wp-content/uploads/2014/12/2014-12-09-21.35.47-300x168.jpg 300w, /wp-content/uploads/2014/12/2014-12-09-21.35.47-250x140.jpg 250w, /wp-content/uploads/2014/12/2014-12-09-21.35.47-150x84.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Post <a rel="nofollow" href="/tatuaz-rysunkowy/">Tatuaż rysunkowy</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
 ]]></content:encoded>
 										</item>
 		<item>
 		<title>Anime Tattoo</title>
-		<link>http://lucy-tattoo.pl/anime/</link>
+		<link>/anime/</link>
 				<pubDate>Sun, 10 Aug 2014 22:31:23 +0000</pubDate>
 		<dc:creator><![CDATA[lucytatto]]></dc:creator>
 				<category><![CDATA[Anime tatoo]]></category>
@@ -56,12 +56,12 @@
 
 		<guid isPermaLink="false">http://lucytattooje.nazwa.pl/wp/?p=136</guid>
 				<description><![CDATA[<p>Studio Tatuażu Lucy Tattoo</p>
-<p class="continue-reading-button"> <a class="continue-reading-link" href="http://lucy-tattoo.pl/anime/">Więcej<i class="crycon-right-dir"></i></a></p>
-<p>Post <a rel="nofollow" href="http://lucy-tattoo.pl/anime/">Anime Tattoo</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
+<p class="continue-reading-button"> <a class="continue-reading-link" href="/anime/">Więcej<i class="crycon-right-dir"></i></a></p>
+<p>Post <a rel="nofollow" href="/anime/">Anime Tattoo</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
 ]]></description>
 								<content:encoded><![CDATA[<p>Studio Tatuażu Lucy Tattoo</p>
-<div id="attachment_140" style="width: 610px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-140" class="wp-image-140 size-full" src="http://www.lucy-tattoo.pl/wp-content/uploads/2014/08/anime.jpg" alt="Anime tatuaż" width="600" height="800" srcset="http://lucy-tattoo.pl/wp-content/uploads/2014/08/anime.jpg 600w, http://lucy-tattoo.pl/wp-content/uploads/2014/08/anime-225x300.jpg 225w, http://lucy-tattoo.pl/wp-content/uploads/2014/08/anime-112x150.jpg 112w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-140" class="wp-caption-text">Anime tattoo</p></div>
-<p>Post <a rel="nofollow" href="http://lucy-tattoo.pl/anime/">Anime Tattoo</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
+<div id="attachment_140" style="width: 610px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-140" class="wp-image-140 size-full" src="http://www.lucy-tattoo.pl/wp-content/uploads/2014/08/anime.jpg" alt="Anime tatuaż" width="600" height="800" srcset="/wp-content/uploads/2014/08/anime.jpg 600w, /wp-content/uploads/2014/08/anime-225x300.jpg 225w, /wp-content/uploads/2014/08/anime-112x150.jpg 112w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-140" class="wp-caption-text">Anime tattoo</p></div>
+<p>Post <a rel="nofollow" href="/anime/">Anime Tattoo</a> pojawił się poraz pierwszy w <a rel="nofollow" href="http://lucy-tattoo.pl">Lucy Tattoo</a>.</p>
 ]]></content:encoded>
 										</item>
 	</channel>
